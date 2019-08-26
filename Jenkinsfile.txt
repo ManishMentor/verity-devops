@@ -13,4 +13,6 @@ pipeline {
             }
         }
 		//Code ends for stage Clean
-		
+	}
+}
+	
